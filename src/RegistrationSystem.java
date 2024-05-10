@@ -97,7 +97,7 @@ public class RegistrationSystem {
         System.out.println("Student added successfully.");
     }
 
-    public void lecturerRegister() {
+    public void registerLecturer() {
         Scanner scanner = new Scanner(System.in);
         String name = "";
         boolean validName = false;
